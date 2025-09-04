@@ -46,6 +46,9 @@ Optional / Supporting Files
 
         pip install -r requirements.txt
 
+note ถ้าไม่สามารถสร้าง venv ได้ " Activate Virtual Environment " ให้รันคำสั่งนี้
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+
 วิธีใช้งานโดยสรุป
 
 1.  ติดตั้ง Python 3.10 หรือ 3.11
